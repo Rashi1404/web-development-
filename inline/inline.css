@@ -1,6 +1,11 @@
 p{
-    background-color: lightblue;
+
+    background-color: rgb(216, 194, 239);
 }
 a{
-    color: red;
+    background-color: red;
 }
+div{
+    background-color: lavender;
+} 
+ 
